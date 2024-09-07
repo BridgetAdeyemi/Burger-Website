@@ -17,7 +17,7 @@ The burger website includes various sections that allow users to explore the res
 - It has an easy-to-navigate interface with clear sections for users to explore.      
 - Built primarily for learning and practicing web development skills, focusing on structure and responsiveness.     
 
-**Technologies Used**    
+**Technologies Used**
 - HTML5 for the structure of the website.    
 - CSS3 for styling and making the site responsive.   
 
