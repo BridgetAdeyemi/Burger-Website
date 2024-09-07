@@ -19,4 +19,7 @@ Built primarily for learning and practicing web development skills, focusing on 
 
 TECHNOLOGIES USED    
 HTML5 for the structure of the website.    
-CSS3 for styling and making the site responsive.    
+CSS3 for styling and making the site responsive.   
+
+LIVE DEMO     
+Checkout the live version of the project here
