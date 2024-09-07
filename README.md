@@ -22,4 +22,4 @@ HTML5 for the structure of the website.
 CSS3 for styling and making the site responsive.   
 
 LIVE DEMO     
-Checkout the live version of the project here
+Checkout the live version of the project here  https://bridgetadeyemi.github.io/Burger-Website/
